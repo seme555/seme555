@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Semere Abera (seme)</h1>
+<h1 align="center">Hi 👋, I'm seme</h1>
 <h3 align="center">🚀 Full-Stack & AI Enthusiast | Passionate about Software Development & Innovation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seme-abera&label=Profile%20views&color=0e75b6&style=flat" alt="seme-abera" />
+  <img src="https://komarev.com/ghpvc/?username=seme555&label=Profile%20views&color=0e75b6&style=flat" alt="seme555" />
 </p>
 
 ---
@@ -37,9 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seme-abera&show_icons=true&theme=radical" alt="seme-abera stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seme-abera&theme=radical" alt="seme-abera streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme-abera&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical" alt="seme555 stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seme555&theme=radical" alt="seme555 streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
@@ -48,21 +48,19 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎧 [Spotify Clone](https://github.com/seme-abera/Spotify-Clone) | A fully responsive music streaming clone using JavaScript. |
-| 🧠 [Visionary](https://github.com/seme-abera/Visionary) | AI-based system showcasing future-tech ideas. |
-| 👨‍💼 [Employee DB System](https://github.com/seme-abera/Employee-Database-Management-System) | A JS-powered employee records manager. |
-| 🛒 [React Commerce](https://github.com/seme-abera/react-commerce) | E-commerce frontend using React. |
-| 🎥 [YouTube Clone](https://github.com/seme-abera/youtube-clone) | Responsive YouTube UI clone. |
-| 🧮 [JS Calculator](https://github.com/seme-abera/js-calculator) | Simple calculator in JavaScript. |
+| 🎧 [Spotify Clone](https://github.com/seme555/Spotify-Clone) | A fully responsive music streaming clone using JavaScript. |
+| 🧠 [Visionary](https://github.com/seme555/Visionary) | AI-based system showcasing future-tech ideas. |
+| 👨‍💼 [Employee DB System](https://github.com/seme555/Employee-Database-Management-System) | A JS-powered employee records manager. |
+| 🛒 [React Commerce](https://github.com/seme555/react-commerce) | E-commerce frontend using React. |
+| 🎥 [YouTube Clone](https://github.com/seme555/youtube-clone) | Responsive YouTube UI clone. |
+| 🧮 [JS Calculator](https://github.com/seme555/js-calculator) | Simple calculator in JavaScript. |
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/semere-abera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:semere.abera@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/seme_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter"></a>
+  <a href="mailto:semereabera1111@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
