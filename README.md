@@ -62,9 +62,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical" alt="seme555 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seme555&theme=radical" alt="seme555 streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seme555&theme=radical&hide_border=true" />
 </p>
+
+
 
 
 
