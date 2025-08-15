@@ -15,12 +15,13 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 
 
+
 ### 🚀 About Me
-- 🎯 I'm a **Full-Stack Developer** with a strong focus on **JavaScript**, **AI**, and **Web Apps**.
-- 🔭 I’m currently working on: `Spotify Clone`, `Visionary`, and `Employee Database System`.
-- 🌱 Currently learning **TypeScript**, **Docker**, and **Nuxt.js**.
-- 💡 I love building practical projects and exploring ML & AI integrations.
-- 📫 Reach me: **semereabera1111@Gmail.com** 
+🎯 I'm a **Data Engineer & Full-Stack Developer** specializing in **data pipelines**, **AI solutions**, and **web applications**.
+🔭 I'm currently working on: **Data Pipeline Architecture**, **AI-Powered Analytics**, and **Scalable Web Applications**.
+🌱 Currently learning: **Advanced ML/AI Integration**, **Cloud Architecture**, and **System Design**.
+💡 I love building **production-ready solutions** and exploring **AI/ML integrations** for real-world problems.
+📫 Reach me: **semereabera1111@Gmail.com**
 
 
 
