@@ -5,7 +5,8 @@
 
 
 <h3 align="center">🚀 Data Engineer & Full-Stack Developer
-Building scalable data pipelines and AI-powered applications
+
+Building scalable data pipelines and AI-powered applications  
 Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 <p align="center">
@@ -17,10 +18,10 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 
 ### 🚀 About Me
-🎯 I'm a **Data Engineer & Full-Stack Developer** specializing in **data pipelines**, **AI solutions**, and **web applications**.
-🔭 I'm currently working on: **Data Pipeline Architecture**, **AI-Powered Analytics**, and **Scalable Web Applications**.
-🌱 Currently learning: **Advanced ML/AI Integration**, **Cloud Architecture**, and **System Design**.
-💡 I love building **production-ready solutions** and exploring **AI/ML integrations** for real-world problems.
+🎯 I'm a **Data Engineer & Full-Stack Developer** specializing in **data pipelines**, **AI solutions**, and **web applications**.  
+🔭 I'm currently working on: **Data Pipeline Architecture**, **AI-Powered Analytics**, and **Scalable Web Applications**.  
+🌱 Currently learning: **Advanced ML/AI Integration**, **Cloud Architecture**, and **System Design**.  
+💡 I love building **production-ready solutions** and exploring **AI/ML integrations** for real-world problems.  
 📫 Reach me: **semereabera1111@Gmail.com**
 
 
@@ -45,19 +46,15 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 ### 🧠 Skills & Expertise
 
-![Skills](https://img.shields.io/badge/-Full--Stack--Development-121212?style=flat&logo=appveyor&labelColor=000000)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Machine Learning](https://img.shields.io/badge/-Machine--Learning-121212?style=flat&logo=python)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-121212?style=flat&logo=openai)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF6B35?style=flat&logo=scrapy&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-00D4AA?style=flat&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
 
@@ -77,12 +74,11 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 | Project | Description |
 |--|-|
-| 🎧 [Spotify Clone](https://github.com/seme555/Spotify-Clone) | A fully responsive music streaming clone using JavaScript. |
-| 🧠 [Visionary](https://github.com/seme555/Visionary) | AI-based system showcasing future-tech ideas. |
-| 👨‍💼 [Employee DB System](https://github.com/seme555/Employee-Database-Management-System) | A JS-powered employee records manager. |
-| 🛒 [React Commerce](https://github.com/seme555/react-commerce) | E-commerce frontend using React. |
-| 🎥 [YouTube Clone](https://github.com/seme555/youtube-clone) | Responsive YouTube UI clone. |
-| 🧮 [JS Calculator](https://github.com/seme555/js-calculator) | Simple calculator in JavaScript. |
+| 🕷️ [ScrapeX](https://github.com/seme555/ScrapeX) | Advanced web scraping tool built with Python for data extraction and processing. |
+| 🧠 [Visionary](https://github.com/seme555/Visionary) | AI-powered system showcasing future-tech ideas and machine learning integration. |
+| 🛒 [React Commerce](https://github.com/seme555/react-commerce) | Full-stack e-commerce platform built with React and modern web technologies. |
+| 💬 [Vibe Chat](https://github.com/seme555/vibe-chat) | Real-time messaging application with modern UI/UX design. |
+| 📊 [Intelli-dash](https://github.com/seme555/Intelli-dash) | Intelligent dashboard system for data visualization and analytics. |
 
 
 
@@ -97,8 +93,31 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 💻 Tech Stack
+
+## **Core Technologies**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+## **Backend & Databases**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## **Tools & Frameworks**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
