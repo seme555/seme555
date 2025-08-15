@@ -4,7 +4,9 @@
 </p>
 
 
-<h3 align="center">🚀 Full-Stack & AI Enthusiast | Passionate about Software Development & Innovation</h3>
+<h3 align="center">🚀 Data Engineer & Full-Stack Developer
+Building scalable data pipelines and AI-powered applications
+Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seme555&label=Profile%20views&color=0e75b6&style=flat" alt="seme555" />
