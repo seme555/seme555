@@ -61,25 +61,22 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Semere's GitHub Stats"
-    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=seme555&show_icons=true&theme=radical"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Semere's Top Languages"
-    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=seme555&theme=radical&hide_border=true"
-    alt="Semere's GitHub Streak"
+    src="https://github-readme-stats-fast.vercel.app/api/streak/?username=seme555&theme=radical"
+    alt="GitHub Streak"
   />
 </p>
-
 
 
 
