@@ -57,15 +57,28 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical" alt="seme555 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical" alt="top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seme555&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Semere's GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Semere's Top Languages"
+    height="165"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=seme555&theme=radical&hide_border=true"
+    alt="Semere's GitHub Streak"
+  />
+</p>
 
 
 
