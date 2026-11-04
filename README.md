@@ -69,6 +69,13 @@ Client delivery stays private. One public write-up: [Large-Scale Real Estate Dat
   <img src="https://streak-stats.demolab.com?user=seme555&hide_border=true&disable_animations=true&background=0B1220&stroke=1C2740&ring=4C8DFF&fire=4C8DFF&currStreakNum=E8EEF6&sideNums=C9D4E8&currStreakLabel=4C8DFF&sideLabels=8A96B0&dates=8A96B0&card_width=495&card_height=155" alt="GitHub contribution streak" height="140" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seme555/seme555/output/github-snake-dark.svg" />
+    <img alt="Contribution snake generated from the GitHub contribution calendar" src="https://raw.githubusercontent.com/seme555/seme555/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 *Language mix is public repository bytes, not a proficiency ranking.*
 
 ---
