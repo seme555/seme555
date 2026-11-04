@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 268" role="img" aria-labelledby="title desc">
+  <title id="title">Data engineering pipeline</title>
+  <desc id="desc">SOURCE, INGEST, MODEL, and SERVE stages connected as a data-flow schematic.</desc>
+  <defs>
+    <linearGradient id="flowGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1A3A7A"/>
+      <stop offset="0.5" stop-color="#4C8DFF"/>
+      <stop offset="1" stop-color="#8BB4FF"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1C2740" stroke-width="0.7"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect x="14" y="14" width="1092" height="240" rx="10"/>
+    </clipPath>
+    <style>
+      .label { font-family: ui-sans-serif, system-ui, "Segoe UI", Helvetica, Arial, sans-serif; }
+      @media (prefers-reduced-motion: reduce) {
+        .pkt { display: none; }
+        .dash { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1120" height="268" rx="14" fill="#070B14"/>
+  <rect x="14" y="14" width="1092" height="240" rx="10" fill="#0B1220" stroke="#1C2740" stroke-width="1"/>
+  <rect x="14" y="14" width="1092" height="240" rx="10" fill="url(#grid)" opacity="0.55"/>
+  <g clip-path="url(#frame)">
+
+  <g fill="none" stroke="#4C8DFF" stroke-width="1" opacity="0.55">
+    <path d="M28 36h14M28 36v14"/>
+    <path d="M1092 36h-14M1092 36v14"/>
+    <path d="M28 232h14M28 232v-14"/>
+    <path d="M1092 232h-14M1092 232v-14"/>
+  </g>
+
+  <text class="label" x="48" y="48" fill="#8A96B0" font-size="11" letter-spacing="3.2">DWG 01  /  DATA FLOW</text>
+  <text class="label" x="1072" y="48" fill="#8A96B0" font-size="11" letter-spacing="2.4" text-anchor="end">REV A  /  PIPELINE</text>
+
+  <path d="M216 148 H1048" fill="none" stroke="#1A3A7A" stroke-width="6" stroke-linecap="round"/>
+  <path id="flow" class="dash" d="M216 148 H1048" fill="none" stroke="url(#flowGrad)" stroke-width="1.4" stroke-dasharray="5 9" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-84" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#4C8DFF">
+    <rect x="268" y="145" width="8" height="6" rx="1.5" opacity="0.55"/>
+    <rect x="538" y="145" width="8" height="6" rx="1.5" opacity="0.55"/>
+    <rect x="818" y="145" width="8" height="6" rx="1.5" opacity="0.55"/>
+  </g>
+
+  <g class="pkt" filter="url(#soft)">
+    <rect width="9" height="6" rx="1.5" fill="#E8EEF6" transform="translate(-4.5 -3)">
+      <animateMotion dur="7.2s" repeatCount="indefinite" path="M216 148 H1048"/>
+    </rect>
+    <rect width="9" height="6" rx="1.5" fill="#4C8DFF" transform="translate(-4.5 -3)">
+      <animateMotion dur="7.2s" begin="1.8s" repeatCount="indefinite" path="M216 148 H1048"/>
+    </rect>
+    <rect width="9" height="6" rx="1.5" fill="#8BB4FF" transform="translate(-4.5 -3)">
+      <animateMotion dur="7.2s" begin="3.6s" repeatCount="indefinite" path="M216 148 H1048"/>
+    </rect>
+    <rect width="9" height="6" rx="1.5" fill="#4C8DFF" opacity="0.85" transform="translate(-4.5 -3)">
+      <animateMotion dur="7.2s" begin="5.4s" repeatCount="indefinite" path="M216 148 H1048"/>
+    </rect>
+  </g>
+
+  <g class="label">
+    <g transform="translate(48,108)">
+      <rect width="168" height="80" rx="6" fill="#0B1220" stroke="#2A3B5C" stroke-width="1.2"/>
+      <rect x="8" y="8" width="152" height="64" rx="3" fill="none" stroke="#1C2740"/>
+      <circle cx="0" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <circle cx="168" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <text x="16" y="30" fill="#4C8DFF" font-size="10" letter-spacing="2.6">01</text>
+      <text x="16" y="50" fill="#E8EEF6" font-size="16" font-weight="600" letter-spacing="1.8">SOURCE</text>
+      <text x="16" y="66" fill="#8A96B0" font-size="10" letter-spacing="1.4">acquire</text>
+    </g>
+    <g transform="translate(328,108)">
+      <rect width="168" height="80" rx="6" fill="#0B1220" stroke="#2A3B5C" stroke-width="1.2"/>
+      <rect x="8" y="8" width="152" height="64" rx="3" fill="none" stroke="#1C2740"/>
+      <circle cx="0" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <circle cx="168" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <text x="16" y="30" fill="#4C8DFF" font-size="10" letter-spacing="2.6">02</text>
+      <text x="16" y="50" fill="#E8EEF6" font-size="16" font-weight="600" letter-spacing="1.8">INGEST</text>
+      <text x="16" y="66" fill="#8A96B0" font-size="10" letter-spacing="1.4">validate</text>
+    </g>
+    <g transform="translate(608,108)">
+      <rect width="168" height="80" rx="6" fill="#0B1220" stroke="#2A3B5C" stroke-width="1.2"/>
+      <rect x="8" y="8" width="152" height="64" rx="3" fill="none" stroke="#1C2740"/>
+      <circle cx="0" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <circle cx="168" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <text x="16" y="30" fill="#4C8DFF" font-size="10" letter-spacing="2.6">03</text>
+      <text x="16" y="50" fill="#E8EEF6" font-size="16" font-weight="600" letter-spacing="1.8">MODEL</text>
+      <text x="16" y="66" fill="#8A96B0" font-size="10" letter-spacing="1.4">transform</text>
+    </g>
+    <g transform="translate(888,108)">
+      <rect width="168" height="80" rx="6" fill="#0B1220" stroke="#2A3B5C" stroke-width="1.2"/>
+      <rect x="8" y="8" width="152" height="64" rx="3" fill="none" stroke="#1C2740"/>
+      <circle cx="0" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <circle cx="168" cy="40" r="3.5" fill="#0B1220" stroke="#4C8DFF" stroke-width="1.4"/>
+      <text x="16" y="30" fill="#4C8DFF" font-size="10" letter-spacing="2.6">04</text>
+      <text x="16" y="50" fill="#E8EEF6" font-size="16" font-weight="600" letter-spacing="1.8">SERVE</text>
+      <text x="16" y="66" fill="#8A96B0" font-size="10" letter-spacing="1.4">deliver</text>
+    </g>
+  </g>
+
+  <text class="label" x="48" y="232" fill="#8A96B0" font-size="10" letter-spacing="2.2">PYTHON  /  SQL  /  ETL  /  BACKEND</text>
+  <text class="label" x="1072" y="232" fill="#4C8DFF" font-size="10" letter-spacing="2.2" text-anchor="end">SEMERE ABERA</text>
+  </g>
+</svg>

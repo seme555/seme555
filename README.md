@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/pipeline-hero.svg" alt="Data pipeline schematic: SOURCE, INGEST, MODEL, SERVE" width="100%" />
+</p>
+
 # Semere Abera
 
 **Data Engineer | Python, SQL, ETL & Backend Systems**
@@ -53,8 +57,8 @@ Client delivery stays private. One public write-up: [Large-Scale Real Estate Dat
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=seme555&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&hide_border=true&disable_animations=true&bg_color=0B1220&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D4E8&ring_color=4C8DFF&custom_title=GitHub%20statistics" alt="GitHub statistics for seme555" height="158" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=seme555&layout=compact&langs_count=3&hide_border=true&disable_animations=true&bg_color=0B1220&title_color=4C8DFF&text_color=C9D4E8&custom_title=Most%20used%20languages" alt="Most used languages on GitHub" height="158" />
+  <img src="https://github-stats-extended.vercel.app/api?username=seme555&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&hide_border=true&disable_animations=true&bg_color=0B1220&title_color=4C8DFF&icon_color=4C8DFF&text_color=C9D4E8&ring_color=4C8DFF&border_color=1C2740&custom_title=GitHub%20statistics" alt="GitHub statistics for seme555" height="158" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=seme555&layout=compact&langs_count=3&hide_border=true&disable_animations=true&bg_color=0B1220&title_color=4C8DFF&text_color=C9D4E8&border_color=1C2740&custom_title=Most%20used%20languages" alt="Most used languages in public repositories" height="158" />
 </p>
 
 <p align="center">
@@ -64,6 +68,8 @@ Client delivery stays private. One public write-up: [Large-Scale Real Estate Dat
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seme555&hide_border=true&disable_animations=true&background=0B1220&stroke=1C2740&ring=4C8DFF&fire=4C8DFF&currStreakNum=E8EEF6&sideNums=C9D4E8&currStreakLabel=4C8DFF&sideLabels=8A96B0&dates=8A96B0&card_width=495&card_height=155" alt="GitHub contribution streak" height="140" />
 </p>
+
+*Language mix is public repository bytes, not a proficiency ranking.*
 
 ---
 
